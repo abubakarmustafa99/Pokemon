@@ -1,0 +1,10 @@
+/* MEDIA QUERY */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .navbar{
+        flex-direction: row;
+        height: 50px;
+        padding: 0 18px;
+    }
+
+.nav-ops ul a { margin: 0 12px; font-size: 0.9rem; }
+}
